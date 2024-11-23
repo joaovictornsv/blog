@@ -1,0 +1,98 @@
+/* Import Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&family=Merriweather:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap');
+
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+
+/* You can override the default Infima variables here. */
+:root {
+  --ifm-color-primary: #654321;
+  --ifm-color-primary-dark: #5A3D1E;
+  --ifm-color-primary-darker: #4E361B;
+  --ifm-color-primary-darkest: #422E17;
+  --ifm-color-primary-light: #725B39;
+  --ifm-color-primary-lighter: #806644;
+  --ifm-color-primary-lightest: #8B724D;
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(101, 67, 33, 0.1);
+  --ifm-background-color: #FDF5E6;
+  --ifm-background-surface-color: #FAF0E6;
+  
+  /* Font settings */
+  --ifm-font-family-base: 'Lora', 'Times New Roman', serif;
+  --ifm-heading-font-family: 'Merriweather', Georgia, serif;
+  --ifm-font-weight-semibold: 600;
+  --ifm-heading-font-weight: 700;
+}
+
+[data-theme='dark'] {
+  --ifm-color-primary: #D2B48C;
+  --ifm-color-primary-dark: #C3A178;
+  --ifm-color-primary-darker: #B58E64;
+  --ifm-color-primary-darkest: #A67B50;
+  --ifm-color-primary-light: #E1C7A0;
+  --ifm-color-primary-lighter: #F0DAB4;
+  --ifm-color-primary-lightest: #FFEFD5;
+  --docusaurus-highlighted-code-line-bg: rgba(210, 180, 140, 0.3);
+  --ifm-background-color: #3C2A1E;
+  --ifm-background-surface-color: #483225;
+}
+
+/* Optional: Adjust heading styles */
+h1, h2, h3, h4, h5, h6 {
+  letter-spacing: -0.02em;
+}
+
+/* Styles specific to blog listing page */
+[class*='blog-list-page'], [class*='blog-tags-post-list-page'] {
+  header >h2 {
+    font-size: 2.2rem !important;
+    margin-bottom: 0.5rem !important;
+  }
+
+  header > div {
+    margin-top: 0 !important;
+    opacity: 0.7;
+  }
+
+  article.margin-bottom--xl {
+    margin-bottom: 3rem !important;
+  }
+
+  article > footer.row {
+    display: none;
+  }
+
+  div.avatar {
+    display: none;
+  }
+}
+
+/* Custom Scrollbar Styles */
+::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--ifm-background-surface-color);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--ifm-color-primary-light);
+  border-radius: 20px;
+  border: 2px solid var(--ifm-background-surface-color);
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--ifm-color-primary);
+}
+
+/* Hide scrollbar buttons */
+::-webkit-scrollbar-button {
+  display: none;
+}
+
