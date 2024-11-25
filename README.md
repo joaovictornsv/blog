@@ -1,3 +1,13 @@
+<div align="center">
+  <h1>
+    Welcome!👋
+    <a href="https://blog-production-joaovictornsv.svc-us5.zcloud.ws" target="_blank">Check out my blog!</a>
+  </h1>
+</div>
+    
+![Blog Cover](./static/img/social-card.png)
+
+
 # Website
 
 This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
