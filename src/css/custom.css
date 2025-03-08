@@ -26,6 +26,10 @@
   --ifm-heading-font-family: 'Merriweather', Georgia, serif;
   --ifm-font-weight-semibold: 600;
   --ifm-heading-font-weight: 700;
+  --ifm-font-size-base: 1.2rem;
+
+  --ifm-container-width-xl: 1600px;
+
 }
 
 [data-theme='dark'] {
