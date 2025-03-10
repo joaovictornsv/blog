@@ -13,4 +13,4 @@ I use a Chrome extension called Unhook. It hides all unnecessary information fro
 
 With this, I choose what I want to consume and stay focused on one video at a time, without comment or recommendation distractions.
 
-👉 Unhook: https://lnkd.in/dbDtXCMp 
+- Unhook: https://lnkd.in/dbDtXCMp 
