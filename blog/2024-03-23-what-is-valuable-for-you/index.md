@@ -10,7 +10,15 @@ What is, or should be, the parameter to consider something valuable?
 <!-- truncate -->
 Recently I read Utopia, written by Thomas More. Giving a simple summary, the book contains a complete description of a society that lives on an island, where addictions, unemployment, hunger, and violence do not exist, just like the name of the book suggests, a true Utopia. The history explores the culture, citizen routines, jobs, religion, policy hierarchy, and the education system of this island.
 
+<div style={{ margin: "0 auto", maxWidth: "600px" }}>
+<img src="/img/utopia.png" alt="Utopia - A society where value is based on utility rather than rarity" />
+</div>
+
 Of all the interesting lessons and reflections provided by the reading, one caught my attention with intensity: the question about value. For Utopia citizens, nature provides the most useful materials in more abundance, while the most unuseful materials are scarce. So, for them, wood, water, and iron are more valuable than gold or pearls because of their utility. In our reality, the opposite is the rule. Most scarce, most valuable. But, how true is it? Can it be a rule in all situations? Should the value always be intrinsic to the rarity?
+
+<div style={{ margin: "0 auto", maxWidth: "600px" }}>
+<img src="/img/water-or-gold.png" alt="Water vs Gold - What would you choose in a desert?" />
+</div>
 
 There are some examples, that are obvious to recognize the value of the utility replacing the value of the rarity. Think about a person who lives in a desert and has limited water to survive, and he needs to work hard to get more. If you offer one thousand liters of water and one ton of gold to him, what do you think he will probably choose? As I said, this is just a simple example to reflect on.
 
@@ -21,6 +29,10 @@ One example to consider: buying a new smartphone. What do you consider before a 
 I’m not suggesting you be an extreme utilitarian. I’m just provoking you to think about how your actions are conducted. Are you considering all facets of a decision?
 
 Sometimes, the same “material” in the same quantity should be looked at under different perspectives of value. Let’s wonder about two scenarios.
+
+<div style={{ margin: "0 auto", maxWidth: "600px" }}>
+<img src="/img/spending-time.png" alt="How do you spend your time?" />
+</div>
 
 In the first you have two choices: spend one hour scrolling social media or spend one hour studying something of your interest. Let’s think a little bit, and don’t worry, I will not demonize social media or tell you are wasting our time with it. Okay, what is the context of this situation? The rarity can be applied here? Are you enjoying one of the free hours in your day to relax a bit? If so, it’s a rare time for you. But if you have time and are wishing to improve your knowledge in some subject, maybe studying can be a more useful activity. What do you think?
 
