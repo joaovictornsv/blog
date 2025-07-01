@@ -6,7 +6,11 @@ tags: [non-technical]
 ---
 
 <head>
+  <meta name="twitter:title" content="What is valuable for you?" />
+  <meta name="twitter:description" content="What is, or should be, the parameter to consider something valuable?" />
   <meta name="twitter:image" content="https://blog.joaovictornsv.dev/img/water-or-gold.png" />
+  <meta property="og:title" content="What is valuable for you?" />
+  <meta property="og:description" content="What is, or should be, the parameter to consider something valuable?" />
   <meta property="og:image" content="https://blog.joaovictornsv.dev/img/water-or-gold.png" />
 </head>
 
