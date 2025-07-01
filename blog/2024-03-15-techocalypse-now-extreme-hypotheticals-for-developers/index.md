@@ -5,9 +5,25 @@ authors: joaovictornsv
 tags: [technical]
 ---
 
+
+<head>
+  <meta name="twitter:title" content="Techocalypse Now: Extreme Hypotheticals for Developers" />
+  <meta name="twitter:description" content="What would you do if all version control platforms, like GitHub, GitLab, and Bitbucket have disappeared?" />
+  <meta name="twitter:image" content="https://blog.joaovictornsv.dev/img/techocalypse-ai.png" />
+  <meta property="og:title" content="Techocalypse Now: Extreme Hypotheticals for Developers" />
+  <meta property="og:description" content="What would you do if all version control platforms, like GitHub, GitLab, and Bitbucket have disappeared?" />
+  <meta property="og:image" content="https://blog.joaovictornsv.dev/img/techocalypse-ai.png" />
+</head>
+
+
 I recently read a blog post called [Extreme brainstorming questions to trigger new, better ideas](https://longform.asmartbear.com/extreme-questions/) written by Jason Cohen. In summary, the text shows several extreme scenarios that can affect a business model and invites the reader to think about what to do in each of them. I have discussed this with friends and it was a good conversation and generated a lot of insights in my head.
 
 So, I decided to write something similar but focused on the developer industry. I hope the following text can provoke some good ideas for you too.
+
+<div style={{ margin: "0 auto", maxWidth: "600px" }}>
+<img src="/img/techocalypse-header.png" alt="Techocalypse Now: Extreme Hypotheticals for Developers" />
+</div>
+
 
 <!-- truncate -->
 
@@ -27,6 +43,16 @@ How would you show your contributions, projects, and acknowledgments to the tech
 
 The question is not only “Where to save my code?”, but “How can my projects and contributions be found?” or “How can I contribute to other interesting projects together with other people?”
 
+## Offline Problem-Solving
+
+Consider the scenario where online forums like Stack Overflow are inaccessible. How would you handle technical challenges, troubleshoot issues, and resolve bugs without the resources and knowledge of online communities?
+
+Another way to think about this lack of help situation is: Does my product (app, website, package, etc) provide great documentation? Are there sections focused on troubleshooting and answering common questions from my customers?
+
+<div style={{ margin: "0 auto", maxWidth: "600px" }}>
+<img src="/img/techocalypse-offline.png" alt="Offline Problem-Solving" />
+</div>
+
 ## Alternative Visibility Strategies
 
 Suppose LinkedIn and other job networking platforms ceased to exist. In what way do you will make yourself visible to employers and tech companies, ensuring they recognize your skills, experiences, and contributions? How will you find new job opportunities or potential clients for your projects?
@@ -43,12 +69,6 @@ How would you present your professional background, experiences, skills, and acc
 
 Where will you show your difference to the world? How can you prove your knowledge and skills? And finally, how convince potential clients or recruiters that you are the best choice they can make?
 
-## Offline Problem-Solving
-
-Consider the scenario where online forums like Stack Overflow are inaccessible. How would you handle technical challenges, troubleshoot issues, and resolve bugs without the resources and knowledge of online communities?
-
-Another way to think about this lack of help situation is: Does my product (app, website, package, etc) provide great documentation? Are there sections focused on troubleshooting and answering common questions from my customers?
-
 ## Adapting to Language Restrictions
 
 Think about a situation where the programming language you're most proficient in (or more familiar with) was banned from the industry. How would you quickly adapt your skill set to alternative languages or technologies and remain a competitive and valuable developer?
@@ -56,6 +76,10 @@ Think about a situation where the programming language you're most proficient in
 Are you ready to let go of your pet language? Have you ever understood that programming languages, packages, and frameworks are just tools? Do you know any mechanic who has a favorite hammer and hates screwdrivers?
 
 It’s time to see how good and prepared your toolbox is.
+
+<div style={{ margin: "0 auto", maxWidth: "600px" }}>
+<img src="/img/techocalypse-tools.png" alt="Adapting to Language Restrictions" />
+</div>
 
 ## Overflow of Job Opportunities
 
@@ -88,3 +112,7 @@ Okay, stop with this apocalyptic tone. Do you know what AI is and how it works? 
 What would make a company choose you over an AI? Are you more valuable than a GPT tool? Can a machine completely replace you?
 
 The AI age has begun. Will you survive?
+
+<div style={{ margin: "0 auto", maxWidth: "600px" }}>
+<img src="/img/techocalypse-ai.png" alt="AI Domination" />
+</div>
