@@ -6,8 +6,8 @@ tags: [non-technical]
 ---
 
 <head>
-  <meta name="twitter:image" content="https://joaovictornsv.com/img/water-or-gold.png" />
-  <meta property="og:image" content="https://joaovictornsv.com/img/water-or-gold.png" />
+  <meta name="twitter:image" content="https://blog.joaovictornsv.dev/img/water-or-gold.png" />
+  <meta property="og:image" content="https://blog.joaovictornsv.dev/img/water-or-gold.png" />
 </head>
 
 What is, or should be, the parameter to consider something valuable?
