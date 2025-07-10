@@ -20,12 +20,13 @@ I recently read a blog post called [Extreme brainstorming questions to trigger n
 
 So, I decided to write something similar but focused on the developer industry. I hope the following text can provoke some good ideas for you too.
 
+<!-- truncate -->
+
 <div style={{ margin: "0 auto", maxWidth: "600px" }}>
 <img src="/img/techocalypse-header.png" alt="Techocalypse Now: Extreme Hypotheticals for Developers" />
 </div>
 
 
-<!-- truncate -->
 
 ## Introduction
 
