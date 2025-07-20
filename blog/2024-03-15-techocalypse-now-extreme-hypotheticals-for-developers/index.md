@@ -5,28 +5,11 @@ authors: joaovictornsv
 tags: [technical]
 ---
 
-
-<head>
-  <meta name="twitter:title" content="Techocalypse Now: Extreme Hypotheticals for Developers" />
-  <meta name="twitter:description" content="What would you do if all version control platforms, like GitHub, GitLab, and Bitbucket have disappeared?" />
-  <meta name="twitter:image" content="https://blog.joaovictornsv.dev/img/techocalypse-ai.png" />
-  <meta property="og:title" content="Techocalypse Now: Extreme Hypotheticals for Developers" />
-  <meta property="og:description" content="What would you do if all version control platforms, like GitHub, GitLab, and Bitbucket have disappeared?" />
-  <meta property="og:image" content="https://blog.joaovictornsv.dev/img/techocalypse-ai.png" />
-</head>
-
-
 I recently read a blog post called [Extreme brainstorming questions to trigger new, better ideas](https://longform.asmartbear.com/extreme-questions/) written by Jason Cohen. In summary, the text shows several extreme scenarios that can affect a business model and invites the reader to think about what to do in each of them. I have discussed this with friends and it was a good conversation and generated a lot of insights in my head.
 
 So, I decided to write something similar but focused on the developer industry. I hope the following text can provoke some good ideas for you too.
 
 <!-- truncate -->
-
-<div style={{ margin: "0 auto", maxWidth: "600px" }}>
-<img src="/img/techocalypse-header.png" alt="Techocalypse Now: Extreme Hypotheticals for Developers" />
-</div>
-
-
 
 ## Introduction
 
@@ -50,9 +33,6 @@ Consider the scenario where online forums like Stack Overflow are inaccessible. 
 
 Another way to think about this lack of help situation is: Does my product (app, website, package, etc) provide great documentation? Are there sections focused on troubleshooting and answering common questions from my customers?
 
-<div style={{ margin: "0 auto", maxWidth: "600px" }}>
-<img src="/img/techocalypse-offline.png" alt="Offline Problem-Solving" />
-</div>
 
 ## Alternative Visibility Strategies
 
@@ -78,9 +58,6 @@ Are you ready to let go of your pet language? Have you ever understood that prog
 
 It’s time to see how good and prepared your toolbox is.
 
-<div style={{ margin: "0 auto", maxWidth: "600px" }}>
-<img src="/img/techocalypse-tools.png" alt="Adapting to Language Restrictions" />
-</div>
 
 ## Overflow of Job Opportunities
 
@@ -113,7 +90,3 @@ Okay, stop with this apocalyptic tone. Do you know what AI is and how it works? 
 What would make a company choose you over an AI? Are you more valuable than a GPT tool? Can a machine completely replace you?
 
 The AI age has begun. Will you survive?
-
-<div style={{ margin: "0 auto", maxWidth: "600px" }}>
-<img src="/img/techocalypse-ai.png" alt="AI Domination" />
-</div>

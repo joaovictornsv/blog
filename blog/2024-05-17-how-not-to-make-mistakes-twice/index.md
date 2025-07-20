@@ -5,15 +5,6 @@ tags: [non-technical]
 title: How not to make mistakes twice
 ---
 
-<head>
-  <meta name="twitter:title" content="How not to make mistakes twice" />
-  <meta name="twitter:description" content="Learn practical strategies to avoid repeating mistakes." />
-  <meta name="twitter:image" content="https://blog.joaovictornsv.dev/img/mistakes-feedback.png" />
-  <meta property="og:title" content="How not to make mistakes twice" />
-  <meta property="og:description" content="Learn practical strategies to avoid repeating mistakes." />
-  <meta property="og:image" content="https://blog.joaovictornsv.dev/img/mistakes-feedback.png" />
-</head>
-
 
 Yes, I will talk about it, in the right way. I’m not a course seller or a coach. I’m just a person learning to be more efficient. I don’t like magic formulas or “success secrets”, I prefer practical, smart, and tangible actions, that anyone can do. I was thinking about how to approach it without vague and superfluous words, and I think I got a good result. This post is divided into three pillars that I follow to never make the same mistake twice. Let’s start.
 
@@ -29,10 +20,6 @@ Well, now let’s change the previous history a bit. Now the other side street g
 
 The advice here is to focus only on the main question: Is this feedback helpful and valid? Regardless it is personal or not. This a mental exercise. I’m not saying you don’t should be angry with the guy who screamed, but at least you should be grateful that he warned you, even with the jokes, he showed a problem that you couldn't find on your own.
 
-<div style={{ margin: "0 auto", maxWidth: "600px" }}>
-<img src="/img/mistakes-feedback.png" alt="How not to make mistakes twice - Feedback" />
-</div>
-
 ## Write everything down all the time
 
 Probably you already know that your brain is a powerful processor. But sometimes it hasn’t a good memory. So, don’t enslave your mind to remind about little details about random things. It can leave you anxious. A very good strategy to deal with it is to take notes. Write everything you know that you can forget (for this reason I use a password manager, and I intend to talk about it in a new post soon). Before continuing it’s important to say what type of notes I’m talking about. I’m referring to notes to remember things (like events, a little bug that appeared in your code and you want to fix it later, or a good idea that you thought of before going to sleep), not studying notes. 
@@ -44,10 +31,6 @@ I will use myself as an example. I take my notes in three different places. For 
 For future projects, books to read, and videos and post ideas (like this one), I use Notion. Finally, for those brilliant insights, I have before bed, I use a notebook next to my bed, or when it involves complex details (like troubleshooting a bug), I send myself an audio message on WhatsApp. And the next day, I move the notes from the previous night to the right places (Slack or Notion).
 
 I’m not 100% satisfied with this strategy, but for now, it’s enough. But I intend to find the “perfect” note-taking strategy for me.
-
-<div style={{ margin: "0 auto", maxWidth: "600px" }}>
-<img src="/img/mistakes-notes.png" alt="How not to make mistakes twice - Notes" />
-</div>
 
 ## Be a pattern finder
 
@@ -83,10 +66,6 @@ You learned a new good practice, cool! Now, to don’t forget this new knowledge
 You must be sensitive to notice repetitive details. And it is not limited to code, it can be anything, like a good writing practice, a new trick to be more productive, an insight from reading a book, etc. Another quick example: You learned how to use commas correctly. Now read an email or text you wrote early and try to fix yourself.
 
 For each new learning, think: Are there more places to apply or identify this new pattern?
-
-<div style={{ margin: "0 auto", maxWidth: "600px" }}>
-<img src="/img/mistakes-pattern.png" alt="How not to make mistakes twice - Pattern" />
-</div>
 
 ## Conclusion
 
