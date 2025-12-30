@@ -29,9 +29,6 @@ function CustomSection() {
         <li>
           <a href="mailto:joaovictornsv@gmail.com" target="_blank" rel="noopener noreferrer">Gmail</a>
         </li>
-        <li>
-          <a href="https://www.youtube.com/@jvnsdev" target="_blank" rel="noopener noreferrer">YouTube</a>
-        </li>
       </ul>
     </div>
   );
